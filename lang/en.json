@@ -1,0 +1,9 @@
+{
+    "done_update": "done update successfully",
+    "done_added": "done added successfully",
+    "done_deleted": "done deleted successfully",
+    "activation": "Activation",
+    "cancel_activation": "Cancel Activation",
+    "active": "Active",
+    "not_active": "Not Active"
+}
